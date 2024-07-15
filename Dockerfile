@@ -1,4 +1,4 @@
-# Use the official httpd image from the Docker Hub
+# Use the official httpd image from the Docker hub
 FROM httpd:latest
 
 # Copy custom configuration file to the image
